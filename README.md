@@ -2,4 +2,4 @@
 
 To compile this application, you need to [install rust](https://www.rust-lang.org/tools/install) and execute the command `cargo run`.
 
-![video](https://github.com/Merlin-Brandt/opengl-terrain/blob/development/recording.mp4)
+![video](https://github.com/Merlin-Brandt/opengl-terrain/blob/development/recording.gif)
