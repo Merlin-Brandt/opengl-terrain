@@ -1,0 +1,12 @@
+error: failed to load default codegen backend for `emscripten`, no appropriate codegen dylib found in `/usr/lib64/rustlib/x86_64-unknown-linux-gnu/codegen-backends`
+
+error: Could not create LLVM TargetMachine for triple: riscv32: No available targets are compatible with triple "riscv32"
+
+error: Could not create LLVM TargetMachine for triple: riscv32: No available targets are compatible with triple "riscv32"
+
+error: Could not create LLVM TargetMachine for triple: riscv64: No available targets are compatible with triple "riscv64"
+
+error: Could not create LLVM TargetMachine for triple: riscv64: No available targets are compatible with triple "riscv64"
+
+error: failed to load default codegen backend for `emscripten`, no appropriate codegen dylib found in `/usr/lib64/rustlib/x86_64-unknown-linux-gnu/codegen-backends`
+

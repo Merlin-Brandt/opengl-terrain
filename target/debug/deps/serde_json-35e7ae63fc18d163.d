@@ -1,0 +1,13 @@
+/data/sync/Projects/Programming/Rust/tetras/target/debug/deps/libserde_json-35e7ae63fc18d163.rlib: /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/lib.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/macros.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/de.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/error.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/map.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/ser.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/value.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/number.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/read.rs
+
+/data/sync/Projects/Programming/Rust/tetras/target/debug/deps/serde_json-35e7ae63fc18d163.d: /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/lib.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/macros.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/de.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/error.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/map.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/ser.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/value.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/number.rs /home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/read.rs
+
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/lib.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/macros.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/de.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/error.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/map.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/ser.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/value.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/number.rs:
+/home/mbra/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_json-0.9.10/src/read.rs:
